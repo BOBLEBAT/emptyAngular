@@ -1,2 +1,1 @@
-angular.module('app', [])
-    .controller('mainController', mainController);
+let app = angular.module('myApp',[]);
